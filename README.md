@@ -1,4 +1,4 @@
 # demo
 This is my first repository
 <br>
-auther-Ganesh
+auther-Ganesh(taur)
