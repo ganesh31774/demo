@@ -2,11 +2,11 @@
 
 Interactive Power BI dashboard for analyzing employee attrition.
 
-##Tools Used
+## Tools Used
 -Power BI
 -Excel
 
-##Author
+## Author
 Ganesh Taur
 
 LinkedIn:
